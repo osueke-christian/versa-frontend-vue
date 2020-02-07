@@ -9,6 +9,7 @@ import Header from '@/components/Header.vue'
 import Carosol from '@/components/Carosol.vue'
 import Services from '@/components/Services.vue'
 import Investment from '@/components/Investment.vue'
+import Portfolio from '@/components/Portfolio.vue'
 
 export default {
     name: 'Home',
@@ -23,7 +24,8 @@ export default {
       'header-section': Header,
       'carosol-section': Carosol,
       'services-section': Services,
-      'investment-section': Investment
+      'investment-section': Investment,
+      'portfolio-section': Portfolio
     },
 }
 </script>
