@@ -177,3 +177,52 @@ h5{
   box-shadow: 0 5px 12px rgba(79,95,190,.3);
 }
 
+
+/* Carosol styles */
+#carosol{
+  /* position: absolute; */
+  clear:both;
+  margin-top: 100px;
+}
+#carosol .col-2{
+  width: 40% !important;
+}
+#carosol .col-2 span{
+  color: #707070 !important;
+}
+#carosol .col-4{
+  width: 60% !important;
+}
+.carosol-img {
+  width: 100%;
+  padding-top: 100px;
+}
+.carosol-img-right {
+  padding-top: 50px;
+  margin-left: -50px;
+}
+#carosol-left article{
+  margin-top: 2em;
+  color: #707070;
+  font-weight: lighter;
+  font-size: 1.1rem!important;
+  line-height: 42px!important;
+  letter-spacing: 1.2px;
+  text-align: justify;
+}
+.btn{
+  text-decoration: none;
+}
+.get-started{
+  margin-top: 50px;
+}
+.btn-get-started{
+  border-radius: 50px !important;
+  padding: .41em 1em;
+  background: #4f5fbe;
+  color: #fff;
+  font-size: 21px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
