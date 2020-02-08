@@ -8,7 +8,7 @@
             <p><a class="btn portfolio-btn signup-btn" href="">Join Us</a></p>
         </div>
         <div class="col-3">
-            <img class="partner-img" src="img/partner01.svg" />
+            <img class="partner-img" src="@/assets/partner01.svg" />
         </div>
     </div>
 </template>

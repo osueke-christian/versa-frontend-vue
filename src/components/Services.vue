@@ -10,7 +10,7 @@
         
         <div class="col-2 card">
             <div class="card-img">
-                <img src="img/target-icon.png" class="card-img"/>
+                <img src="@/assets/target-icon.png" class="card-img"/>
             </div>
             
             <h3 class="card-title">Plan  your finance</h3>
@@ -22,7 +22,7 @@
         </div>
         <div class="col-2 card">
             <div class="card-img">
-                <img src="img/icon-realtime.png" class="card-img"/>
+                <img src="@/assets/icon-realtime.png" class="card-img"/>
             </div>
             
             <h3 class="card-title">Choose your investment</h3>
@@ -34,7 +34,7 @@
         </div>
         <div class="col-2 card">
             <div class="card-img">
-                <img src="img/invest-icon.png" class="card-img"/>
+                <img src="@/assets/invest-icon.png" class="card-img"/>
             </div>
             
             <h3 class="card-title">Real-Time Insight on Investment Activity</h3>

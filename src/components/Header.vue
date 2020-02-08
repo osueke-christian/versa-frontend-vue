@@ -1,7 +1,7 @@
 <template>
     <div class="row" id="header">
         <div class="col-2" id="logo">
-            <img class="logo" src="img/logo.png" />
+            <img class="logo" src="@/assets/logo.png" />
         </div>
         <div class="col-4" id="nav">
             <ul class="hide-sm">

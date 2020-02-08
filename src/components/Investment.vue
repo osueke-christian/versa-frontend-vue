@@ -28,7 +28,7 @@
             </ul>
         </div>
         <div class="col-3">
-            <img class="invest-img" src="img/versa1.png" />
+            <img class="invest-img" src="@/assets/versa1.png" />
         </div>
     </div>
 </template>

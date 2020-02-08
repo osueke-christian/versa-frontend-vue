@@ -5,7 +5,7 @@
         </div>
         
         <div class="col-2" >
-            <div class="portfolio-img" style="background-image: url('./img/real-estate.jpeg');"></div>
+            <div class="portfolio-img estate" style=""></div>
             <div class="portfolio-txt">
                 <h3><a href="">Real Estate</a></h3>
                 <p>
@@ -18,7 +18,7 @@
             </div>
         </div>
         <div class="col-2" >
-            <div class="portfolio-img" style="background-image: url(./img/transportation.jpeg);"></div>
+            <div class="portfolio-img transport" style=""></div>
             <div class="portfolio-txt">
                 <h3><a href="">Transportation</a></h3>
                 <p>
@@ -31,7 +31,7 @@
             </div>
         </div>
         <div class="col-2">
-            <div class="portfolio-img" style="background-image: url(img/agriculture.jpeg);"></div>
+            <div class="portfolio-img agric"></div>
             <div class="portfolio-txt">
                 <h3><a href="">Agriculture</a></h3>
                 <p>
@@ -45,3 +45,15 @@
         </div>
     </div>
 </template>
+<style scoped>
+    .transport{
+        background-image: url('../assets/transportation.jpeg');
+    }
+    .agric{
+        background-image: url('../assets/agriculture.jpeg');
+    }
+    .estate{
+        background-image: url('../assets/real-estate.jpeg');
+    }
+    
+</style>
