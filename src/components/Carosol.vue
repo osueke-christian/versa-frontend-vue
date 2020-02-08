@@ -15,8 +15,8 @@
         </div>
 
         <div class="col-4 hide-sm" id="carosol-right">
-            <div class="col-3"><img class="carosol-img carosol-img-left" src="img/versa0.svg" /></div>
-            <div class="col-3"><img class="carosol-img carosol-img-right" src="img/versa2.svg" /></div>
+            <div class="col-3"><img class="carosol-img carosol-img-left" src="@/assets/versa0.svg" /></div>
+            <div class="col-3"><img class="carosol-img carosol-img-right" src="@/assets/versa2.svg" /></div>
         </div>
     </div>
 </template>
