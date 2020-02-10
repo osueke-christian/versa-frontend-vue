@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: `<versa-frontend-vue>`
+    // publicPath: `/versa-frontend-vue/`
 }
